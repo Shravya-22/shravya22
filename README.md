@@ -17,6 +17,7 @@
 | [0027-remove-element](https://github.com/Shravya-22/shravya22/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shravya-22/shravya22/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Shravya-22/shravya22/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Shravya-22/shravya22/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shravya-22/shravya22/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Shravya-22/shravya22/tree/master/0905-sort-array-by-parity) |
 ## Sorting
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shravya-22/shravya22/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Shravya-22/shravya22/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shravya-22/shravya22/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/Shravya-22/shravya22/tree/master/1108-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
