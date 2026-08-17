@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shravya-22/shravya22/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Shravya-22/shravya22/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Shravya-22/shravya22/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shravya-22/shravya22/tree/master/0054-spiral-matrix) |
@@ -50,4 +51,8 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shravya-22/shravya22/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shravya-22/shravya22/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/Shravya-22/shravya22/tree/master/1108-defanging-an-ip-address) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shravya-22/shravya22/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
