@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shravya-22/shravya22/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Shravya-22/shravya22/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Shravya-22/shravya22/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shravya-22/shravya22/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shravya-22/shravya22/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shravya-22/shravya22/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -28,6 +29,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shravya-22/shravya22/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shravya-22/shravya22/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shravya-22/shravya22/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Shravya-22/shravya22/tree/master/0905-sort-array-by-parity) |
@@ -52,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shravya-22/shravya22/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shravya-22/shravya22/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shravya-22/shravya22/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shravya-22/shravya22/tree/master/0151-reverse-words-in-a-string) |
@@ -63,6 +66,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shravya-22/shravya22/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Shravya-22/shravya22/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shravya-22/shravya22/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shravya-22/shravya22/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shravya-22/shravya22/tree/master/0387-first-unique-character-in-a-string) |
