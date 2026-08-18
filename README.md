@@ -62,6 +62,7 @@
 | [0344-reverse-string](https://github.com/Shravya-22/shravya22/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shravya-22/shravya22/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/Shravya-22/shravya22/tree/master/1108-defanging-an-ip-address) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shravya-22/shravya22/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0242-valid-anagram](https://github.com/Shravya-22/shravya22/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shravya-22/shravya22/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shravya-22/shravya22/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shravya-22/shravya22/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,4 +85,9 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shravya-22/shravya22/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shravya-22/shravya22/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shravya-22/shravya22/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
